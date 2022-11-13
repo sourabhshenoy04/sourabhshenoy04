@@ -2,9 +2,7 @@
 <h3 align="center">Young Tech Enhtusiast</h3>
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhshenoy04&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhshenoy04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhshenoy04" alt="sourabhshenoy04" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -15,6 +13,8 @@
 - 📫 How to reach me **sourabhshenoy04@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
+- 
+- 👨‍💻 Interests  **IoT and Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhshenoy04&show_icons=true&locale=en" alt="sourabhshenoy04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhshenoy04&" alt="sourabhshenoy04" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhshenoy04&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhshenoy04" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhshenoy04" alt="sourabhshenoy04" /></a> </p>
