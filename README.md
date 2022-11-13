@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourabh Shenoy</h1>
 <h3 align="center">Young Tech Enhtusiast</h3>
-<img align="right" alt="coding" width="500" src=""C:\Users\SOURABH\OneDrive\Desktop\Techie.jpg"">
+<img align="right" alt="coding" width="500" src="C:\Users\SOURABH\OneDrive\Desktop\Techie.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhshenoy04&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhshenoy04" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 All of my projects are available at (coming soon...)
 
 - 💬 Ask me about **Tech realted stuff**
 
