@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourabh Shenoy</h1>
 <h3 align="center">Young Tech Enhtusiast</h3>
-<img align="right" alt="coding" width="500" src="C:\Users\SOURABH\OneDrive\Desktop\Techie.jpg">
+<img align="right" alt="coding" width="500" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhshenoy04&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhshenoy04" /> </p>
 
