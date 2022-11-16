@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **sourabhshenoy04@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
-- 👨‍💻 Interested on  **IoT and Web Development**
+- 👨‍💻 Interested in  **IoT and Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
