@@ -1,8 +1,8 @@
 HELLO!
 
 # 💫 About Me:
-👨‍🔬 **Engineering Student**<br>👨‍💻 Interested in  **IoT and Web Development**<br>👨‍💻 All of my projects are available at (coming soon...)<br>📫 How to reach me **sourabhshenoy04@gmail.com**<br>💬 Ask me about **Tech realted stuff**<br>
-
+👨‍🔬 **Engineering Student**<br>👨‍💻 Interested in  **Web Development**<br>👨‍💻 All of my projects are available at (coming soon...)<br>📫 How to reach me **sourabhshenoy04@gmail.com**<br>💬 Ask me about **Tech realted stuff**<br>
+<hr>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/invite/sourabh_shenoy#7627) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sourabh.shenoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sourabh-shenoy-4b8781232/) 
