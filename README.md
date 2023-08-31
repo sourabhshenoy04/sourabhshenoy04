@@ -1,5 +1,5 @@
 # 💫 About Me:
-•Tech Enthusiast 
+- Tech Enthusiast 
 
 
 ## 🌐 Socials:
